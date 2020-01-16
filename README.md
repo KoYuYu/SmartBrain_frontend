@@ -1,15 +1,11 @@
 <p align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <a title="Facebook [Public domain]" href="https://commons.wikimedia.org/wiki/File:React-icon.svg"><img width="256" alt="React-icon" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/256px-React-icon.svg.png"></a>
+    <a title="Facebook [Public domain]" href="https://commons.wikimedia.org/wiki/File:React-icon.svg"><img width="128" alt="React-icon" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/128px-React-icon.svg.png"></a>
   </a>
-
+  <h2 align="center">SmartBrain</h2>
   <h3 align="center"></h3>
-
   <p align="center">
-    <br />
-    <a href="https://github.com/KoYuYu/SmartBrain_frontend"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
+    An fullstack website that implemented face recognition API.<br><br>
     <a href="https://smartbrain31.herokuapp.com/">View Demo</a>
     ·
   </p>
