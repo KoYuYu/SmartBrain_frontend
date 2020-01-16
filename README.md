@@ -19,14 +19,8 @@
 * [About the Project](#about-the-project)
   * [Built With](#built-with)
 * [Background Introduction](#getting-started)
-  * [Prerequisites](#prerequisites)
-  * [Installation](#installation)
-* [Usage](#usage)
-* [Roadmap](#roadmap)
-* [Contributing](#contributing)
-* [License](#license)
+* [About the Project](#about-the-project)
 * [Contact](#contact)
-* [Acknowledgements](#acknowledgements)
 
 
 
@@ -40,7 +34,7 @@ This is the blueprint of the project.<br><br>
 
 ### Built With
 There are the major library, framework or techniques I use for this project
-<br>
+<br><br>
 Front-end:<br>
 * [HTML/HTML5](https://www.w3schools.com/html/)
 * [CSS3](https://www.w3schools.com/css/default.asp)
@@ -50,7 +44,6 @@ Front-end:<br>
 * [React](https://reactjs.org/)
 <br>
 Back-end<br>
-<br>
 
 * [Node.js](https://nodejs.org/en/)
 * [bcrypt-nodejs](https://www.npmjs.com/package/bcrypt-nodejs)
@@ -71,11 +64,37 @@ Deploy:<br>
 <!-- GETTING STARTED -->
 ## Background Introduction
 React is the most popular javascript library for web developing. Although I did websites before, the techniques was outdated such as PHP, MS-SQL. In order to get familiar to the latest technique, I learn react from online resources and did this project.
+<br>
+* This is the login page.
+<br>
+<img src="pics/index.png" alt="index" width="400" height="auto">
+<br>
+* The page after login
+<img src="pics/mainpage.png" alt="main" width="400" height="auto">
+<br>
+* The face recognition page (after login or registered)
+<br>
+<img src="pics/facerecog.png" alt="face" width="400" height="auto">
 
-<img src="pics/index.png" alt="Logo" width="400" height="auto">
 
+<!-- Additional -->
+## Additional materials
+The following are the softwares I used for this project.<br>
 
-
+* pgAdmin
+I use pgAdmin for PostgreSQL database.
+<br>
+<img src="pics/pgAdmin.png" alt="Logo" width="400" height="auto">
+<br>
+* PostMan
+I use PostMan to be the test server.
+<br>
+<img src="pics/postman.png" alt="Logo" width="400" height="auto">
+<br>
+* Heroku
+Finally, use Heroku to deploy the app and use their PostgreSQL database tools.
+<br>
+<img src="pics/heroku.png" alt="Logo" width="400" height="auto">
 <!-- CONTACT -->
 ## Contact
 
